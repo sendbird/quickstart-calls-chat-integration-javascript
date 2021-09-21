@@ -30,7 +30,7 @@
     "prettier": "^1.15.3",
     "resolve-url-loader": "^3.1.2",
     "sass-loader": "^7.1.0",
-    "ssh2": "^0.8.5",
+    "ssh2": "^1.4.0",
     "style-loader": "^0.21.0",
     "webpack": "^4.6.0",
     "webpack-cli": "^3.1.0",
